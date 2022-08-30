@@ -1,20 +1,13 @@
-### Hi there, I am Rubens 👋
+## Hi there, I am Rubens 👋
+I’m a physicist who recently discovered I have great interest in all areas of data science. I have always had a strong passion for learning and teaching.
 
-and I am a physicist concentrated on data science study, with a strong passion for education!
+- 🔭 I am currently educating myself in the following areas: Machine Learning, Statistics, Artificial Intelligence, Probability and Deep learning.
 
-
-- 🔭 I’m currently working on the registration of a computer program called the [ExtraGalactic Cosmic-Ray Propagator (EGCRProp)](https://pos.sissa.it/301/477/pdf) created during my Ph.D. study.
-
-- 🌱 I’m currently learning  Machine Learning, Artificial Intelligence, Deep Learning, Probability and Statistics.
+- 🌱 In addition to furthering my research, I am presently working on the registration of a computer program called the [ExtraGalactic Cosmic-Ray Propagator (EGCRProp)](https://pos.sissa.it/301/477/pdf) that I created during my Ph.D. studies.
 
 - 📖 I also love writing! That's why I created the [Statictics Soup](https://rubensjrcosta.github.io/) blog.
 
-
-zap As Lead AI Educator at Lightning AI, I am excited about making AI & deep learning more accessible and teaching people how to utilize AI & deep learning at scale.
-mortar_board I am also an Assistant Professor of Statistics at the University of Wisconsin-Madison, focusing on deep learning and machine learning research. Have a look at my research projects if you'd like to find out more.
-video_game But most of all, I am a passionate coder who loves open-source software!
-book I also love writing! For example, I wrote the Machine Learning with PyTorch and Scikit-Learn book.
-
+- 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensjrcosta/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rubensjrcosta)
