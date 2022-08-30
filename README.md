@@ -1,7 +1,8 @@
 ## Hi there, I am Rubens 👋
-I’m a physicist who recently discovered I have great interest in all areas of data science. I have always had a strong passion for learning and teaching.
 
-- 🔭 I am currently educating myself in the following areas: Machine Learning, Statistics, Artificial Intelligence, Probability and Deep learning.
+I’m a physicist who recently discovered I have a great interest in all areas of data science. I have always had a strong passion for learning and teaching.
+
+- 🔭 I am currently educating myself in the following areas: Machine Learning, Deep Learning, and Artificial Intelligence.
 
 - 🌱 In addition to furthering my research, I am presently working on the registration of a computer program called the [ExtraGalactic Cosmic-Ray Propagator (EGCRProp)](https://pos.sissa.it/301/477/pdf) that I created during my Ph.D. studies.
 
